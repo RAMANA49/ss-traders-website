@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ramana49.github.io/ss-traders-website/sitemap.xml
